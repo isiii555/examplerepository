@@ -21,3 +21,8 @@ print("Salmanin deyisikliyi")
 print("Salmanin deyisikliyi")
 print("Salmanin deyisikliyi")
 print("Salmanin deyisikliyi")
+
+print("Islamin deyisikliyi")
+print("Islamin deyisikliyi")
+print("Islamin deyisikliyi")
+
