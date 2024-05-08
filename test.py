@@ -16,3 +16,8 @@ print("Versiya 4")
 print("Versiya 4")
 print("Versiya 4")
 print("Versiya 4")
+
+print("Islamin deyisikliyi")
+print("Islamin deyisikliyi")
+print("Islamin deyisikliyi")
+
