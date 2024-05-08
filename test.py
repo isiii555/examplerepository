@@ -11,3 +11,8 @@ print("Versiya 3")
 print("Versiya 3")
 print("Versiya 3")
 print("Versiya 3")
+
+print("Versiya 4")
+print("Versiya 4")
+print("Versiya 4")
+print("Versiya 4")
