@@ -16,3 +16,8 @@ print("Versiya 4")
 print("Versiya 4")
 print("Versiya 4")
 print("Versiya 4")
+
+print("Salmanin deyisikliyi")
+print("Salmanin deyisikliyi")
+print("Salmanin deyisikliyi")
+print("Salmanin deyisikliyi")
