@@ -6,3 +6,8 @@ print("Versiya2")
 print("Versiya2")
 
 print("Versiya2")
+
+print("Versiya 3")
+print("Versiya 3")
+print("Versiya 3")
+print("Versiya 3")
